@@ -1,0 +1,18 @@
+# Vendored library archives and test audio: too large for git
+*.zip
+*.wav
+*.mp3
+
+# Build output
+build/
+*.elf
+*.bin
+*.map
+
+# Editor scratch files
+*.swp
+*.swo
+*~
+
+# Scratch copies of libraries and test audio, not part of the build
+archive/
